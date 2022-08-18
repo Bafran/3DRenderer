@@ -21,3 +21,9 @@ Vector Math goals
 Stretch goals
 
 - [ ] Animate the transformations smoothly (essentially creating keyframs).
+
+# Images
+
+![alt text](https://cdn.discordapp.com/attachments/822236882703220736/1009631889906221147/unknown.png)
+
+![alt text](https://cdn.discordapp.com/attachments/822236882703220736/1009631995816591490/unknown.png)
